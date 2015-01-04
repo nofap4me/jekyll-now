@@ -10,7 +10,7 @@ baseurl: ""
 markdown: kramdown
 highlighter: pygments
 permalink: /:title/
-version: v1.0.0
+paginate:         5
 exclude:
     - LICENSE
     - README.md
