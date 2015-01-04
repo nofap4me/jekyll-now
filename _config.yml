@@ -12,8 +12,6 @@ highlighter: pygments
 permalink: /:title/
 version: v1.0.0
 exclude:
-    - Gemfile
-    - Gemfile.lock
     - LICENSE
     - README.md
     - localinfo.md
