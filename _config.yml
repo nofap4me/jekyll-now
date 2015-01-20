@@ -9,7 +9,7 @@ disqus:
 baseurl: ""
 markdown: kramdown
 highlighter: pygments
-permalink: /:title/
+permalink: pretty
 paginate:         5
 exclude:
     - LICENSE
